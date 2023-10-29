@@ -1,0 +1,24 @@
+{
+    "now": "2023-10-29T13:09:22.787Z",
+    "perfNow": 5446371,
+    "diagnosticCorrelation": "9613abac-d33d-4e3c-8575-7f1c65904167",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.102323.9",
+        "environmentType": 3,
+        "resourceName": "Datafactorywithsanju",
+        "resourceRegion": "centralindia",
+        "resourceGroup": "dataengineerproject1",
+        "subscriptionId": "080d1b13-7c3a-435a-b841-b3a0ffbd9660",
+        "sessionId": "mVWEMtyFTdDhj7pVocEP4t",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "6caa0aa2-d57c-4708-a94e-aeb883a883d5"
+    },
+    "additionalInfo": {
+        "selectedResource": "pipeline",
+        "selectedResourceType": "pipeline",
+        "dataFlowSessionId": "d3a61640-1196-4b6a-8418-b5f23bb13cab"
+    }
+}

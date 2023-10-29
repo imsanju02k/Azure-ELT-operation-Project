@@ -1,0 +1,32 @@
+{
+    "name": "FinalOutput",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AzureBlobStoragedev",
+            "type": "LinkedServiceReference"
+        },
+        "parameters": {
+            "path": {
+                "type": "string",
+                "defaultValue": "dev"
+            }
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobStorageLocation",
+                "fileName": "final",
+                "container": {
+                    "value": "@dataset().path",
+                    "type": "Expression"
+                }
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": false,
+            "quoteChar": "\""
+        },
+        "schema": []
+    }
+}

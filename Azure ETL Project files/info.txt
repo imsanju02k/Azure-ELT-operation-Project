@@ -1,0 +1,7 @@
+selected resource name:		pipeline
+selected resource type:		pipeline
+factory name:			Datafactorywithsanju
+factory location:		centralindia
+subscription id:		080d1b13-7c3a-435a-b841-b3a0ffbd9660
+data flow session id:		d3a61640-1196-4b6a-8418-b5f23bb13cab
+time of download (UTC):		Sun, 29 Oct 2023 13:09:22 GMT
